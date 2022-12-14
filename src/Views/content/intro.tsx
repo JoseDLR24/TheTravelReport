@@ -1,5 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import introimg from "../../Assets/images/milos-greece-colorful-houses.jpg";
 
 function Intro() {
     return (
@@ -13,7 +14,7 @@ function Intro() {
                     Greece has 1,400 islands, though only 230 of them are inhabited.
                     And while everyone knows about Santorini and Mykonos, there are gorgeous lesser-known islands in Greece, too.
                 </p>
-                <img className="col-md-6 col-xs-offset-1  col-xs-10" src="../../Assets/images/milos-greece-colorful-houses.jpg" alt="Milos Greece colorful houses" />
+                <img className="col-md-6 col-xs-offset-1  col-xs-10" src={introimg} alt="Milos Greece colorful houses" />
             </article>
             <hr />
 
