@@ -16,3 +16,4 @@ function Hydra() {
     );
 }
 
+export default Hydra;

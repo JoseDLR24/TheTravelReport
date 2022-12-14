@@ -16,7 +16,7 @@ function Gavdos() {
     );
 }
 
-
+export default Gavdos;
 
 
 

@@ -15,3 +15,4 @@ function Alonissos() {
     );
 }
 
+export default Alonissos;

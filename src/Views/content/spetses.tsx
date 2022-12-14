@@ -16,3 +16,4 @@ function Spetses() {
     );
 }
 
+export default Spetses;

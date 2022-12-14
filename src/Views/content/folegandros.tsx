@@ -16,3 +16,4 @@ function Folegandros() {
     );
 }
 
+export default Folegandros;

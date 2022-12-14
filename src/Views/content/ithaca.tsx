@@ -16,3 +16,4 @@ function Ithaca() {
     )
 }
 
+export default Ithaca;

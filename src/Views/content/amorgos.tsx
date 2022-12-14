@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-function Alonissos() {
+function Amorgos() {
     return (
         <div className="container">
             <article id="Amorgos" className="row">
@@ -16,3 +16,4 @@ function Alonissos() {
     );
 }
 
+export default Amorgos;

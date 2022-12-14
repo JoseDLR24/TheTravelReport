@@ -16,3 +16,4 @@ function Syros() {
     )
 }
 
+export default Syros;

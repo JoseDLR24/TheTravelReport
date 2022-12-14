@@ -11,6 +11,7 @@ import Footer from './Views/components/footer';
 import Home from './Views/content/home';
 
 
+
 // Styles and fonts
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';

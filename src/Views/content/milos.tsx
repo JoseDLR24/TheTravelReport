@@ -16,3 +16,4 @@ function Milos() {
     );
 }
 
+export default Milos;
