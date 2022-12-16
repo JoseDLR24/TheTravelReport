@@ -1,3 +1,8 @@
+// file name:footer.tsx
+// author name: Jose De Los Reyes
+// website name: Assignment 2
+// file description: jsx code to add content to my footer component
+
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 

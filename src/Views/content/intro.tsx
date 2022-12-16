@@ -1,3 +1,8 @@
+// file name: intro.tsx
+// author name: Jose De Los Reyes
+// website name: COMP2112 - Final Exam
+// description: jsx content introduction before the main content of the website
+
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import introimg from "../../Assets/images/milos-greece-colorful-houses.jpg";

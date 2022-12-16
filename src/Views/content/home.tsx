@@ -1,3 +1,8 @@
+// file name: home.tsx
+// author name: Jose De Los Reyes
+// website name: COMP2112 - Final Exam
+// description: import of all the content components to be showed when the home component is called in the main app.tsx
+
 import React, { useEffect } from 'react';
 // import content components
 import Intro from './intro';

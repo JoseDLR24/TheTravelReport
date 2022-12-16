@@ -1,3 +1,8 @@
+// file name: App.tsx
+// author name: Jose De Los Reyes
+// website name: COMP2112 - Final Exam
+// description: import of allthe common components
+
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
@@ -9,7 +14,8 @@ import Footer from './Views/components/footer';
 // content components
 /* add content components here */
 import Home from './Views/content/home';
-
+import Contact from './Views/content/contact';
+import About from './Views/content/about';
 
 
 // Styles and fonts
@@ -22,6 +28,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 
 
+
 function App() {
 
   return (
@@ -31,6 +38,8 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />}></Route>
           <Route path="/home" element={<Home />}></Route>
+          <Route path="/about" element={<About />}></Route>
+          <Route path='/contact' element={<Contact />}></Route>
         </Routes>
         <Footer></Footer>
       </BrowserRouter>

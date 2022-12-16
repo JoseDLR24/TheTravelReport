@@ -1,3 +1,8 @@
+// file name: syros.tsx
+// author name: Jose De Los Reyes
+// website name: COMP2112 - Final Exam
+// description: jsx content
+
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import syrosimg from "../../Assets/images/syros.jpg";

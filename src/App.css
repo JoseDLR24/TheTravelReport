@@ -1,4 +1,23 @@
-/* custom syle sheet */
+/* file name:App.cs
+author name: Jose De Los Reyes
+website name: Final Exam
+file description: css code for styling my react app
+*/
+
+/* ABOUT PAGE */
+#abtaside {
+    display: flex;
+    margin: 20px 40px 0 0;
+}
+
+#aboutme {
+    width: 30%;
+    margin-right: 50px;
+}
+
+#asidesec {
+    width: 90%;
+}
 
 .navbar {
     opacity: 0.8;

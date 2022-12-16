@@ -1,3 +1,8 @@
+// file name: gavdos.tsx
+// author name: Jose De Los Reyes
+// website name: COMP2112 - Final Exam
+// description: jsx content
+
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import gavdosimg from "../../Assets/images/gavdos.jpg";

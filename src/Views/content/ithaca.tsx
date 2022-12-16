@@ -1,3 +1,8 @@
+// file name: ithaca.tsx
+// author name: Jose De Los Reyes
+// website name: COMP2112 - Final Exam
+// description: jsx content
+
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import ithacaimg from "../../Assets/images/ithaca.jpg";
